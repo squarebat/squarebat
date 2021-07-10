@@ -7,7 +7,7 @@ Ayo, I'm Khadija Sidhpuri
 
 ### Skills
 
-- **Languages**: Python, Ruby, C++, C, JavaScript, HTML/CSS, Scheme
+- **Languages**: Ruby, Python, C++, C, JavaScript, HTML/CSS, Scheme
 - **Frameworks/Libraries**: Ruby on Rails, .NET Core Framework, React, NumPy
 - **Developer Tools**: Git, VS Code, Visual Studio, Redis, Docker
 - **Databases**: MySQL, MongoDB, PostgreSQL
