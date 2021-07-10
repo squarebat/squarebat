@@ -20,8 +20,7 @@ Ayo, I'm Khadija Sidhpuri
 - Working on my personal website
 
 ### Reach out to me at:
-- [<img alt="Khadija Sidhpuri | LinkedIN" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg"/>](https://www.linkedin.com/in/khadija-sidhpuri-87709316a/) 
-- 📫: ksidhpuri@gmail.com
+- [<img alt="Khadija Sidhpuri | LinkedIN" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg"/>](https://www.linkedin.com/in/khadija-sidhpuri-87709316a/) 📫: ksidhpuri@gmail.com
 
 <!--
 **squarebat/squarebat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
