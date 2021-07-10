@@ -15,8 +15,8 @@ Ayo, I'm Khadija Sidhpuri
 
 ### Ongoing Projects
 
-- SICP - Reading and solving the exercises
 - Contributing to [Forem](https://github.com/forem)
+- SICP - Reading and solving the exercises
 - Working on my personal website
 
 ### Reach out to me at:
