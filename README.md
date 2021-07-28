@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ayo, I'm Khadija Sidhpuri
+I'm Khadija Sidhpuri
 =============
 
 ## A Software Engineer
