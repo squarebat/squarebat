@@ -8,10 +8,17 @@ I'm Khadija Sidhpuri
 ### Skills
 
 - **Languages**: Ruby, Python, C++, C, JavaScript, HTML/CSS, Scheme
-- **Frameworks/Libraries**: Ruby on Rails, .NET Core Framework, React, NumPy
+- **Frameworks/Libraries**: Ruby on Rails, React, Node.js, Angular, NumPy
 - **Developer Tools**: Git, VS Code, Visual Studio, Redis, Docker
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Theory**: Structure of Computer Programs, Data Intensive Applications
+
+### Experience
+- Open Source Fellow at Major League Hacking
+  - Contributing code, bug reports and fixes, and feature requests to [Forem](https://github.com/forem)
+  - Worked on automatic image deletion feature on AWS S3, using Carrierwave storage adapter.
+  - Worked on fixing issues and UX enhancement related to fetching data from RSS feeds.
+  - Reported and Fixed bugs regarding markdown to html parsing    
 
 ### Ongoing Projects
 
